@@ -1,0 +1,28 @@
+{
+  "name": "gitpoddprueba",
+  "version": "1.0.0",
+  "description": "comenzando con editores en la nube de GITPOD EDITADO",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoantoniocruzado1994/gitpoddprueba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoantoniocruzado1994/gitpoddprueba/issues"
+  },
+  "homepage": "https://github.com/marcoantoniocruzado1994/gitpoddprueba#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
